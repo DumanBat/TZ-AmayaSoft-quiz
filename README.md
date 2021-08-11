@@ -1,3 +1,7 @@
+![1](https://i.gyazo.com/422cce9a1ed91a1ebcdddfb0f8b2e7bd.png)
+
+![2](https://i.gyazo.com/ef1d29e66b7ed1d3c7c136c6daff337b.png)
+
 ### TZ-AmayaSoft-quiz
 
 Для того чтобы выбрать категорию уровней, нужно GameManager -> Level Manager -> Level Type Id задать 0 для букв, 1 для цифр.  
